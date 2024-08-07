@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com suporte técnico para empresas.
 - 🌱 Estudando HTML, CSS e JS
 - 📈 Pretendo atuar nessa área em breve!💹🚀
+- Rocketseat Discover 🗹
 
 <h2 align="left">Techs</h2>
 
